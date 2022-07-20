@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Trybe-Project-14-Trybetunes/static/css/main.b749f813.chunk.css",
+    "main.js": "/Trybe-Project-14-Trybetunes/static/js/main.73b5d005.chunk.js",
+    "main.js.map": "/Trybe-Project-14-Trybetunes/static/js/main.73b5d005.chunk.js.map",
+    "runtime-main.js": "/Trybe-Project-14-Trybetunes/static/js/runtime-main.92168aad.js",
+    "runtime-main.js.map": "/Trybe-Project-14-Trybetunes/static/js/runtime-main.92168aad.js.map",
+    "static/js/2.ccd2e945.chunk.js": "/Trybe-Project-14-Trybetunes/static/js/2.ccd2e945.chunk.js",
+    "static/js/2.ccd2e945.chunk.js.map": "/Trybe-Project-14-Trybetunes/static/js/2.ccd2e945.chunk.js.map",
+    "index.html": "/Trybe-Project-14-Trybetunes/index.html",
+    "static/css/main.b749f813.chunk.css.map": "/Trybe-Project-14-Trybetunes/static/css/main.b749f813.chunk.css.map",
+    "static/js/2.ccd2e945.chunk.js.LICENSE.txt": "/Trybe-Project-14-Trybetunes/static/js/2.ccd2e945.chunk.js.LICENSE.txt",
+    "static/media/logo.701e3f02.png": "/Trybe-Project-14-Trybetunes/static/media/logo.701e3f02.png",
+    "static/media/lupa.d42b71c5.png": "/Trybe-Project-14-Trybetunes/static/media/lupa.d42b71c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92168aad.js",
+    "static/js/2.ccd2e945.chunk.js",
+    "static/css/main.b749f813.chunk.css",
+    "static/js/main.73b5d005.chunk.js"
+  ]
+}
