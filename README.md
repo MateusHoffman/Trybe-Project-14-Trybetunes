@@ -1,9 +1,9 @@
-# 💚💚 Trybe-Project-13-TryUnfo 💚💚
+# 💚💚 Trybe-Project-14-Trybetunes 💚💚
 
-Project responsible for presenting my skills with HTML, CSS, JavaScript, Jest and React
+Project responsible for presenting my skills with React, JavaScript, Jest, LocalStorage, and CSS
 
 ## Access the project:
-### https://mateushoffman.github.io/Trybe-Project-13-TryUnfo/
+### https://trybe-project-14-trybetunes.vercel.app
 
 ## NOTA - 100%
 
