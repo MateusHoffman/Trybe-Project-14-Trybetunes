@@ -5,6 +5,12 @@ Project responsible for presenting my skills with React, JavaScript, Jest, Local
 ## Access the project:
 ### https://trybe-project-14-trybetunes.vercel.app
 
+#### Login
+
+Name: Your name
+
+Email: teste@gmail.com
+
 ## NOTA - 100%
 
 <div align="center" margin="50px">
